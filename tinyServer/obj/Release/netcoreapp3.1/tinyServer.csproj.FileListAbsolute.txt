@@ -1,0 +1,13 @@
+D:\git\tinyServer\tinyServer\bin\Release\netcoreapp3.1\tinyServer.exe
+D:\git\tinyServer\tinyServer\bin\Release\netcoreapp3.1\tinyServer.deps.json
+D:\git\tinyServer\tinyServer\bin\Release\netcoreapp3.1\tinyServer.runtimeconfig.json
+D:\git\tinyServer\tinyServer\bin\Release\netcoreapp3.1\tinyServer.runtimeconfig.dev.json
+D:\git\tinyServer\tinyServer\bin\Release\netcoreapp3.1\tinyServer.dll
+D:\git\tinyServer\tinyServer\bin\Release\netcoreapp3.1\tinyServer.pdb
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.csprojAssemblyReference.cache
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.csproj.CoreCompileInputs.cache
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.AssemblyInfoInputs.cache
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.AssemblyInfo.cs
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.dll
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.pdb
+D:\git\tinyServer\tinyServer\obj\Release\netcoreapp3.1\tinyServer.genruntimeconfig.cache
